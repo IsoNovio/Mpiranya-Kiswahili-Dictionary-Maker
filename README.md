@@ -23,7 +23,7 @@ A pair of Windows executables (also Python GUI tools built with Tkinter) for pro
      - Click **Process** to create the `referenceTable.xlsx`.
 3. **Verify** that the new files (`.docx`, `frequencyTable.xlsx`, and `referenceTable.xlsx`) are generated in the same folder as the `.exe` or in your chosen output directory.
 
-_Note:_ The executables are large, so they may take some time to load.
+- _Note:_ The executables are large, so they may take some time to load.
 ------
 
 ## Requirements (If Not Using the EXEs)
